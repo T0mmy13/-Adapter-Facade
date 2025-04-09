@@ -2,13 +2,11 @@
 
 
 //Adapter
-// Старый интерфейс оплаты (который использует клиент)
 public interface IOldPaymentSystem
 {
     void ProcessPayment(decimal amount);
 }
 
-// Старая реализация оплаты
 public class LegacyPaymentSystem : IOldPaymentSystem
 {
     public void ProcessPayment(decimal amount)
@@ -17,7 +15,6 @@ public class LegacyPaymentSystem : IOldPaymentSystem
     }
 }
 
-// Новая система оплаты (с несовместимым интерфейсом)
 public class NewPaymentService
 {
     public void Pay(decimal amount, string currency)
@@ -26,7 +23,6 @@ public class NewPaymentService
     }
 }
 
-// Адаптер для новой системы (реализует старый интерфейс)
 public class NewPaymentAdapter : IOldPaymentSystem
 {
     private readonly NewPaymentService _newService;
@@ -38,7 +34,6 @@ public class NewPaymentAdapter : IOldPaymentSystem
 
     public void ProcessPayment(decimal amount)
     {
-        // Конвертируем рубли в USD (пример логики адаптера)
         _newService.Pay(amount / 75, "USD");
     }
 }
@@ -61,7 +56,6 @@ public class Screen
     public void Lower() => Console.WriteLine("Экран опущен");
 }
 
-// Фасад для управления кинотеатром
 public class HomeTheaterFacade
 {
     private readonly Amplifier _amp;
@@ -92,20 +86,17 @@ public class HomeTheaterFacade
     }
 }
 
-// Пример использования
 class Program
 {
     static void Main()
     {
-        // Старая система
         Console.WriteLine("Adapter:");
         IOldPaymentSystem oldSystem = new LegacyPaymentSystem();
-        oldSystem.ProcessPayment(1000); // 1000 руб.
+        oldSystem.ProcessPayment(1000);
 
-        // Новая система через адаптер
         var newService = new NewPaymentService();
         IOldPaymentSystem adaptedSystem = new NewPaymentAdapter(newService);
-        adaptedSystem.ProcessPayment(1000); // Конвертация в USD
+        adaptedSystem.ProcessPayment(1000);
         Console.WriteLine();
 
         Console.WriteLine("Facade:");
@@ -113,7 +104,6 @@ class Program
         var projector = new Projector();
         var screen = new Screen();
 
-        // Используем фасад
         var theater = new HomeTheaterFacade(amp, projector, screen);
         theater.StartMovie();
         theater.EndMovie();

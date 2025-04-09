@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Паттерны Adapter и Facade/1.0.0": {
+        "runtime": {
+          "Паттерны Adapter и Facade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Паттерны Adapter и Facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

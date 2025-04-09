@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Visual Studio\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B Adapter \u0438 Facade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1C449-6162-405C-8181-CCC2C999DE05}|\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B Adapter \u0438 Facade\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B Adapter \u0438 Facade.csproj|e:\\projects\\visual studio\\\u043F\u0430\u0442\u0442\u0435\u0440\u043D\u044B adapter \u0438 facade\\\u043F\u0430\u0442\u0442\u0435\u0440\u043D\u044B adapter \u0438 facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1C449-6162-405C-8181-CCC2C999DE05}|\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B Adapter \u0438 Facade\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B Adapter \u0438 Facade.csproj|solutionrelative:\u043F\u0430\u0442\u0442\u0435\u0440\u043D\u044B adapter \u0438 facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Visual Studio\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B Adapter \u0438 Facade\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B Adapter \u0438 Facade\\Program.cs",
+              "RelativeDocumentMoniker": "\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B Adapter \u0438 Facade\\Program.cs",
+              "ToolTip": "E:\\Projects\\Visual Studio\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B Adapter \u0438 Facade\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B Adapter \u0438 Facade\\Program.cs",
+              "RelativeToolTip": "\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B Adapter \u0438 Facade\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwFUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:30:18.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

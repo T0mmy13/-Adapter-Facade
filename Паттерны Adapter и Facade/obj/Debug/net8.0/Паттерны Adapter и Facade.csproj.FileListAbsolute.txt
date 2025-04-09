@@ -1,0 +1,14 @@
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\bin\Debug\net8.0\Паттерны Adapter и Facade.exe
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\bin\Debug\net8.0\Паттерны Adapter и Facade.deps.json
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\bin\Debug\net8.0\Паттерны Adapter и Facade.runtimeconfig.json
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\bin\Debug\net8.0\Паттерны Adapter и Facade.dll
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\bin\Debug\net8.0\Паттерны Adapter и Facade.pdb
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\obj\Debug\net8.0\Паттерны Adapter и Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\obj\Debug\net8.0\Паттерны Adapter и Facade.AssemblyInfoInputs.cache
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\obj\Debug\net8.0\Паттерны Adapter и Facade.AssemblyInfo.cs
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\obj\Debug\net8.0\Паттерны Adapter и Facade.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\obj\Debug\net8.0\Паттерны Adapter и Facade.dll
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\obj\Debug\net8.0\refint\Паттерны Adapter и Facade.dll
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\obj\Debug\net8.0\Паттерны Adapter и Facade.pdb
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\obj\Debug\net8.0\Паттерны Adapter и Facade.genruntimeconfig.cache
+E:\Projects\Visual Studio\Паттерны Adapter и Facade\Паттерны Adapter и Facade\obj\Debug\net8.0\ref\Паттерны Adapter и Facade.dll
